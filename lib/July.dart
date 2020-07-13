@@ -64,7 +64,7 @@ class _julyState extends State<July>{
   int index = 0;
 
   void changeIndex() {
-    setState(() => index = random.nextInt(69));
+    setState(() => index = random.nextInt(87));
   }
 
   Widget build(BuildContext context){
